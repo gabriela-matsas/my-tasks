@@ -1,4 +1,6 @@
 # ✦ My Tasks — Task Management App
+(link: https://cool-quokka-2157c6.netlify.app/)
+<img width="793" height="830" alt="Captura de tela 2026-05-12 092311" src="https://github.com/user-attachments/assets/5ac82917-2ea9-461e-9554-ba233c02ca0c" />
 
 A task management application built with React as a portfolio project.
 
