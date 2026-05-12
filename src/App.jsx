@@ -6,7 +6,6 @@ import SearchBar from "./SearchBar";
 import StatsBar from "./StatsBar";
 import TaskItem from "./TaskItem";
 
-const FILTERS = ["all", "pending", "completed"];
 
 export default function App() {
   const { tasks, addTask, deleteTask, toggleTask, editTask, clearCompleted } = useTasks();
